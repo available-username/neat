@@ -1,0 +1,15 @@
+{
+	"SpeciesConfig": {
+	"ExcessGenesCoeff": 0,
+	"DisjoinGenesCoeff": 0,
+	"AvgWeightDiffCoeff": 0,
+	"CompatibilityThreshold": 0
+	},
+	"OrganismConfig": {
+	"SynapseSplitMutProb": 0,
+	"SynapseActivityMutProb": 0,
+	"SynapseWeightMutProp": 0,
+	"SynapseWeightBound": 0,
+	"ActivationFunction": "rectifier"
+	}
+}
